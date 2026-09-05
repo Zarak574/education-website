@@ -79,3 +79,10 @@ The website also uses Google Fonts for typography and Ionicons for interface ico
 Educator is a front-end educational website that combines course discovery, instructor information, educational events, testimonials, and blog content into a single platform. Its structure is suitable for an e-learning business that wants to present its courses and educational services through a professional and accessible web interface.
 
 The project provides a strong foundation that can later be connected to a backend system to support features such as user accounts, course enrollment, payments, student dashboards, course management, and other functionality required by a complete online learning platform.
+
+## Live Demo
+
+Visit the live website:
+
+[Educator — Online Courses & Education Platform](https://zarak574.github.io/education-website/)
+
